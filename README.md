@@ -1,7 +1,7 @@
 //\Author: BlackLeakz
 //\Website: https://blackspace.cf/
 //\Version: FULL 0.0.0.1a
-//\Github: https://github.com/BlackLeakz96/deltaforce
+//\Github: https://github.com/BlackLeakz96/deltaforce_full_libary
 //\Projekt: deltaforce() {};
 //
 //
